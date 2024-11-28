@@ -1,0 +1,14 @@
+C:\Users\Kullanıcı\source\repos\soner metin ödev ders öğrenci yönetim sistemi\soner metin ödev ders öğrenci yönetim sistemi\bin\Debug\net8.0\soner metin ödev ders öğrenci yönetim sistemi.exe
+C:\Users\Kullanıcı\source\repos\soner metin ödev ders öğrenci yönetim sistemi\soner metin ödev ders öğrenci yönetim sistemi\bin\Debug\net8.0\soner metin ödev ders öğrenci yönetim sistemi.deps.json
+C:\Users\Kullanıcı\source\repos\soner metin ödev ders öğrenci yönetim sistemi\soner metin ödev ders öğrenci yönetim sistemi\bin\Debug\net8.0\soner metin ödev ders öğrenci yönetim sistemi.runtimeconfig.json
+C:\Users\Kullanıcı\source\repos\soner metin ödev ders öğrenci yönetim sistemi\soner metin ödev ders öğrenci yönetim sistemi\bin\Debug\net8.0\soner metin ödev ders öğrenci yönetim sistemi.dll
+C:\Users\Kullanıcı\source\repos\soner metin ödev ders öğrenci yönetim sistemi\soner metin ödev ders öğrenci yönetim sistemi\bin\Debug\net8.0\soner metin ödev ders öğrenci yönetim sistemi.pdb
+C:\Users\Kullanıcı\source\repos\soner metin ödev ders öğrenci yönetim sistemi\soner metin ödev ders öğrenci yönetim sistemi\obj\Debug\net8.0\soner metin ödev ders öğrenci yönetim sistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kullanıcı\source\repos\soner metin ödev ders öğrenci yönetim sistemi\soner metin ödev ders öğrenci yönetim sistemi\obj\Debug\net8.0\soner metin ödev ders öğrenci yönetim sistemi.AssemblyInfoInputs.cache
+C:\Users\Kullanıcı\source\repos\soner metin ödev ders öğrenci yönetim sistemi\soner metin ödev ders öğrenci yönetim sistemi\obj\Debug\net8.0\soner metin ödev ders öğrenci yönetim sistemi.AssemblyInfo.cs
+C:\Users\Kullanıcı\source\repos\soner metin ödev ders öğrenci yönetim sistemi\soner metin ödev ders öğrenci yönetim sistemi\obj\Debug\net8.0\soner metin ödev ders öğrenci yönetim sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Kullanıcı\source\repos\soner metin ödev ders öğrenci yönetim sistemi\soner metin ödev ders öğrenci yönetim sistemi\obj\Debug\net8.0\soner metin ödev ders öğrenci yönetim sistemi.dll
+C:\Users\Kullanıcı\source\repos\soner metin ödev ders öğrenci yönetim sistemi\soner metin ödev ders öğrenci yönetim sistemi\obj\Debug\net8.0\refint\soner metin ödev ders öğrenci yönetim sistemi.dll
+C:\Users\Kullanıcı\source\repos\soner metin ödev ders öğrenci yönetim sistemi\soner metin ödev ders öğrenci yönetim sistemi\obj\Debug\net8.0\soner metin ödev ders öğrenci yönetim sistemi.pdb
+C:\Users\Kullanıcı\source\repos\soner metin ödev ders öğrenci yönetim sistemi\soner metin ödev ders öğrenci yönetim sistemi\obj\Debug\net8.0\soner metin ödev ders öğrenci yönetim sistemi.genruntimeconfig.cache
+C:\Users\Kullanıcı\source\repos\soner metin ödev ders öğrenci yönetim sistemi\soner metin ödev ders öğrenci yönetim sistemi\obj\Debug\net8.0\ref\soner metin ödev ders öğrenci yönetim sistemi.dll

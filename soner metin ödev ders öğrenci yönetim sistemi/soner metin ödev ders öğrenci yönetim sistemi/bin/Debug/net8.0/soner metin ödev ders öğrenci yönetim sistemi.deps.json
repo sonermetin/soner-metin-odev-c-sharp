@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "soner metin ödev ders öğrenci yönetim sistemi/1.0.0": {
+        "runtime": {
+          "soner metin ödev ders öğrenci yönetim sistemi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "soner metin ödev ders öğrenci yönetim sistemi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
